@@ -83,8 +83,13 @@ $ echo $PHILOSOPHY
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techvibedz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00f7ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibedz&layout=compact&hide_border=true&langs_count=8&title_color=00f7ff&text_color=c9d1d9&bg_color=0d1117" alt="langs"/>
+<img width="82%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details"/>
+
+<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="languages"/>
+
+<img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most used languages"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time"/>
 
 <br/>
 
@@ -93,10 +98,6 @@ $ echo $PHILOSOPHY
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvibedz&bg_color=0d1117&color=00f7ff&line=8b5cf6&point=00f7ff&area=true&hide_border=true" alt="activity"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=techvibedz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
